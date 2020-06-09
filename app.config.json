@@ -1,0 +1,10 @@
+{
+  "apps": [
+    {
+      "name": "raspberry-frontend",
+      "script": "npx",
+      "interpreter": "none",
+      "args": "serve -p 3000"
+    }
+  ]
+}
