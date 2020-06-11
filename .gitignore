@@ -9,7 +9,8 @@
 /coverage
 
 # production
-/build
+#Too much memory for raspberry to build for prod
+#/build
 
 # misc
 .DS_Store
